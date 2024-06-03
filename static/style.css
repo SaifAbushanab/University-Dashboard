@@ -1,0 +1,64 @@
+#chartdiv{
+    width: 50%;
+    height: 500px;
+
+    top: 0;
+    left: 0;
+    position: fixed;
+    margin-top: 75px;
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
+#chart2div{
+    width: 50%;
+    height: 500px;
+
+    top: 0;
+    right: 0;
+    position: fixed;
+    margin-top: 75px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+#chart3div{
+    width: 50%;
+    height: 500px;
+
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    margin-bottom: 50px;
+    margin-left: 10px;
+    margin-top: 0px;
+}
+#chart4div{
+    width:50%;
+    height: 500px;
+
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    margin-bottom: 50px ;
+    margin-right: 10px;
+    margin-top: 0px;
+}
+h1{
+    text-align: center;
+    margin:0px; 
+    padding-bottom: 0px;
+}
+  
+h2{
+    color:red;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+h3{
+    color:red;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 0px;
+    margin-top: 40px;
+}
